@@ -5,8 +5,19 @@
 
 ---
 
-## 👋 Professional Summary
-Results-oriented **Analytics Engineer** with 3.5 years of experience driving digital transformation. Expert in designing end-to-end data architectures using **Azure Cloud (ADF, Databricks)**, **Snowflake**, and **Power BI**. I specialize in building scalable data warehouses and actionable BI solutions for Retail, Healthcare, and FMCG sectors.
+## 👩‍💻 About Me
+
+I transform complex data into clear business value.
+
+As an **Analytics Engineer** & **Consultant**, I specialize in the modern data stack (**Azure, Snowflake, dbt**) to help organizations become truly data-driven.
+
+### 🚀 What I Bring to the Table
+* **End-to-End Engineering:** Expert in architecting scalable ELT/ETL pipelines (ADF, Databricks).
+* **Business Intelligence:** Creating "C-Suite ready" dashboards that answer the "So What?" (Power BI, Tableau).
+* **Strategic Vision:** MBA-backed understanding of ROI, Marketing, and Operations.
+* **Domain Expertise:** Deep experience in **FMCG, Retail, Healthcare, and Manufacturing**.
+
+---
 
 ---
 
